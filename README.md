@@ -1,0 +1,1 @@
+This is a clasic Tic Tac Toe simple game implemented with javascript, html and css.
